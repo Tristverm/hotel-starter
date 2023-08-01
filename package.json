@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "@headlessui/react": "^1.7.5",
+    "@babel/plugin-proposal-private-property-in-object": "^7.0.0",
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.20",
     "react-datepicker": "^4.8.0",
