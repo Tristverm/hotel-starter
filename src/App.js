@@ -21,6 +21,7 @@ function App() {
   return (
     <div>
       <Header />
+
       <RouterProvider router={router} />
       <Footer />
     </div>
